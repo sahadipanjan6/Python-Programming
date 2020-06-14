@@ -1,8 +1,8 @@
-Question: Write a Python program to collapse a given number. Collapsing of a number is to repeatedly add the digits
+'''Question: Write a Python program to collapse a given number. Collapsing of a number is to repeatedly add the digits
 of the number and when it comes to a single digit sum then display it. For e.g. Input Number = 1234,
 Output = 1 [since, 1+2+3+4 = 10, again, 1+0 = 1]
 
-Solution:
+Solution:'''
 
 #function definition to find the sum of digits of a number
 def findSumOfDigits(number):
